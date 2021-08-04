@@ -1,0 +1,10 @@
+D:\Data\VisualStudio\IP Viewer\IP Viewer\bin\Debug\IP Viewer.exe.config
+D:\Data\VisualStudio\IP Viewer\IP Viewer\bin\Debug\IP Viewer.exe
+D:\Data\VisualStudio\IP Viewer\IP Viewer\bin\Debug\IP Viewer.pdb
+D:\Data\VisualStudio\IP Viewer\IP Viewer\obj\Debug\IP Viewer.csproj.AssemblyReference.cache
+D:\Data\VisualStudio\IP Viewer\IP Viewer\obj\Debug\IP_Viewer.Properties.Resources.resources
+D:\Data\VisualStudio\IP Viewer\IP Viewer\obj\Debug\IP Viewer.csproj.GenerateResource.cache
+D:\Data\VisualStudio\IP Viewer\IP Viewer\obj\Debug\IP Viewer.csproj.CoreCompileInputs.cache
+D:\Data\VisualStudio\IP Viewer\IP Viewer\obj\Debug\IP Viewer.exe
+D:\Data\VisualStudio\IP Viewer\IP Viewer\obj\Debug\IP Viewer.pdb
+D:\Data\VisualStudio\IP Viewer\IP Viewer\obj\Debug\IP_Viewer.lblSubnet.resources
